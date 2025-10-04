@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Concierto de Rock",
+    "artist": "Banda X",
+    "city": "Madrid",
+    "category": "Música",
+    "date": "2025-10-10",
+    "price": 20,
+    "popularity": 5,
+    "image": "img/imagen1.png"
+  },
+  {
+    "id": 2,
+    "title": "Obra de Teatro",
+    "artist": "Compañía Y",
+    "city": "Barcelona",
+    "category": "Teatro",
+    "date": "2025-11-05",
+    "price": 15,
+    "popularity": 3,
+    "image": "img/imagen2.png"
+  },
+  {
+    "id": 3,
+    "title": "Festival de Jazz",
+    "artist": "Jazz Band",
+    "city": "Valencia",
+    "category": "Música",
+    "date": "2025-12-01",
+    "price": 25,
+    "popularity": 4,
+    "image": "img/imagen3.png"
+  },
+  {
+    "id": 4,
+    "title": "Exposición de Arte",
+    "artist": "Artista Z",
+    "city": "Sevilla",
+    "category": "Arte",
+    "date": "2025-10-20",
+    "price": 10,
+    "popularity": 2,
+    "image": "img/imagen4.png"
+  },
+  {
+    "id": 5,
+    "title": "Stand Up Comedy",
+    "artist": "Comediante W",
+    "city": "Bilbao",
+    "category": "Comedia",
+    "date": "2025-11-15",
+    "price": 18,
+    "popularity": 4,
+    "image": "img/imagen5.png"
+  },
+  {
+    "id": 6,
+    "title": "Feria Gastronómica",
+    "artist": "Chefs Locales",
+    "city": "Valencia",
+    "category": "Gastronomía",
+    "date": "2025-12-10",
+    "price": 12,
+    "popularity": 3,
+    "image": "img/imagen6.png"
+  },
+  {
+    "id": 7,
+    "title": "Cine al Aire Libre",
+    "artist": "Cine Club",
+    "city": "Granada",
+    "category": "Cine",
+    "date": "2025-10-30",
+    "price": 8,
+    "popularity": 4,
+    "image": "img/imagen7.png"
+  },
+  {
+    "id": 8,
+    "title": "Festival de Danza",
+    "artist": "Compañía Danza",
+    "city": "Madrid",
+    "category": "Danza",
+    "date": "2025-11-22",
+    "price": 22,
+    "popularity": 5,
+    "image": "img/imagen8.png"
+  }
+]
